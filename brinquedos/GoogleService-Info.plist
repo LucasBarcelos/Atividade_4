@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>155353901691-48h2boi32t4orkp5mbs5eq3vcckpgk5c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.155353901691-48h2boi32t4orkp5mbs5eq3vcckpgk5c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUiPHndRDU_Id_5dXWamBA4-ThXXfpdNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>155353901691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.lucasbarcelos.brinquedos</string>
+	<key>PROJECT_ID</key>
+	<string>brinquedoslista</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brinquedoslista.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:155353901691:ios:ba6c552cae1db749c8d0de</string>
+</dict>
+</plist>
